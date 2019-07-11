@@ -1,5 +1,5 @@
 <script>
-	export let data, titles
+  export let data, titles
 
   let whatSort // Какой тип данных мы сортируем: dates, strings, numbers
   let noSortedRows
@@ -72,9 +72,9 @@
 </script>
 
 <style>
-	h1 {
-		color: purple;
-	}
+  h1 {
+    color: purple;
+  }
   .fullwidth {
     width: 100%;
   }
